@@ -2,6 +2,9 @@
  Aim:
 To study and apply arithmetic, relational, and logical operators in C++ to perform mathematical operations and conditional evaluations.
 
+Tools:
+VScode
+
 Theory:
 Arithmetic Operators perform basic mathematical operations such as +, -, *, /, %, and include increment (++) and decrement (--).
 
