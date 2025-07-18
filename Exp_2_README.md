@@ -1,6 +1,8 @@
 Aim:  
 To study and implement the basic structure of a C++ program using fundamental data types and understand different storage classes.
 
+Tool: VScode
+
 Theory:
 1. Data Types in C++:
 Data types define the type and size of data a variable can store. They help in efficient memory usage and data manipulation.
