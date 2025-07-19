@@ -87,4 +87,15 @@ int main() {
             cout << "Invalid choice!" << endl;
             break;
     }
-}
+}/*Menu:
+1.Biryani
+2.Pizza
+3.Pasta
+4.Salad
+Enter your choice (1-4): 1
+You chose Biryani.
+1. Chicken Biryani
+2. Mutton Biryani
+3. Vegetable Biryani
+Enter your choice (1-3): 2
+You chose Mutton Biryani.*/
