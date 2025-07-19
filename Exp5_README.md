@@ -47,7 +47,7 @@ In this experiment, we successfully implemented C++ decision making constructs (
 
 Algorithms:
 
- 1. Vowel or Consonant Checker
+# 1. Vowel or Consonant Checker
 
 Algorithm:
 1. Start.
@@ -60,7 +60,7 @@ Algorithm:
 6. Else, display "The character is neither a vowel nor a consonant."
 7. Stop.
 
- 2. Greatest of Three Numbers
+# 2. Greatest of Three Numbers
 
 Algorithm:
 1. Start.
@@ -76,7 +76,7 @@ Algorithm:
 
 
 
-3. Menu Driven Menu (Nested Switch Statements)
+# 3. Menu Driven Menu (Nested Switch Statements)
 
 Algorithm:
 1. Start.
@@ -93,7 +93,7 @@ Algorithm:
  
  
  
-4. Odd or Even Number Checker
+# 4. Odd or Even Number Checker
 
 Algorithm:
 1. Start.
@@ -105,7 +105,7 @@ Algorithm:
 5. Stop.
 
 
-5. Calculator Using Switch Case
+# 5. Calculator Using Switch Case
 
 Algorithm:
 1. Start.
