@@ -1,7 +1,9 @@
 Experiment 5: C++ Decision Making Statements
 
 Aim:
-To study and implement **C++ decision making statements**, including `if`, `else if`, `else`, and `switch` statements, for controlling the program flow based on conditions[1].
+To study and implement **C++ decision making statements**, including `if`, `else if`, `else`, and `switch` statements, for controlling the program flow based on conditions.
+
+Tools:VScode
 
 Theory
 Decision making statements in C++ allow a program to take different actions depending on conditions. The primary statements used for this purpose include:
@@ -38,7 +40,7 @@ Decision making statements in C++ allow a program to take different actions depe
             // default code block
     }
     
-Typical uses include checking if a number is odd, even, or zero; finding the largest of three numbers; and creating menu-driven programs such as day-of-the-week selectors or calculator programs. The `break` and `default` keywords are often used in `switch` statements to control the flow and handle default actions[1].
+Typical uses include checking if a number is odd, even, or zero; finding the largest of three numbers; and creating menu-driven programs such as day-of-the-week selectors or calculator programs. The `break` and `default` keywords are often used in `switch` statements to control the flow and handle default actions.
 
 Conclusion:
 In this experiment, we successfully implemented C++ decision making constructs (if, if-else, else-if, and switch), enabling the program to take logical paths based on conditions. These control statements are essential for writing interactive, dynamic, and real-world applications.
